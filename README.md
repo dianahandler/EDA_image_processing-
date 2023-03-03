@@ -1,6 +1,6 @@
 # EDA_image_processing
 
-
+Texture classification methods using both Gray level co-occurrence matrices and Local Binary Pattern(LBP)
 
 
 
